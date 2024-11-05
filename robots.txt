@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udozuava.github.io/NSF/sitemap_index.txt
+Sitemap: https://udozuava.github.io/fQD/sitemap_index.txt
+Sitemap: https://udozuava.github.io/iTN/sitemap_index.txt
+Sitemap: https://udozuava.github.io/yKf/sitemap_index.txt
